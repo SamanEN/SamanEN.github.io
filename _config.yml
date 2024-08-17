@@ -2,7 +2,7 @@ locale                   : "en-US"
 title                    : "Saman E. Nazari"
 title_separator          : "-"
 name                     : &name "Saman"
-description              : &description "Senior Computer Engineering student"
+description              : &description "Computer Engineering B.Sc. student"
 url                      : https://samanen.github.io
 baseurl                  : ""
 repository               : "samanen/samanen.github.io"
@@ -12,7 +12,7 @@ repository               : "samanen/samanen.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Saman"
   pronouns         : # example: "she/her"  
   bio              : "Senior Computer Engineering student"
@@ -48,7 +48,7 @@ author:
   keybase          : 
   instagram        : 
   lastfm           : 
-  linkedin         : "Saman Eslami Nazari"
+  linkedin         : "saman-eslami-nazari"
   mastodon         : 
   medium           : 
   pinterest        : 
