@@ -1,5 +1,5 @@
 ---
-title: "My first activity"
+title: "University of Tehran ACM Student Chapter"
 collection: activities
 description_left: "Vice President"
 description_right: "Jun 2023 - May 2024"
