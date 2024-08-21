@@ -1,0 +1,11 @@
+---
+permalink: /activities/
+title: "Activities"
+author_profile: true
+---
+
+
+{% for activity in site.activities %}
+    <h2>{{ activity.title }}</h2>
+    {{ activity.content }}
+{% endfor %}

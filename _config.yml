@@ -199,7 +199,10 @@ kramdown:
 
 
 # These settings control the types of collections used by the template
-# collections:
+collections:
+  activities:
+    output: true
+    permalink: /:collection/:path/
 
 # These settings control how pages and collections are included in the site
 defaults:
