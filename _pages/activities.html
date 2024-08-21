@@ -4,8 +4,31 @@ title: "Activities"
 author_profile: true
 ---
 
+<style>   
+table {
+  border-collapse: collapse;
+  border: none;
+  font-size: medium;
+  margin-top: 0px;
+}
+
+td, th {
+  border: none;
+  padding: 0;
+}
+
+h2 {
+  margin-bottom: 0px;
+}
+</style>
 
 {% for activity in site.activities %}
     <h2>{{ activity.title }}</h2>
+    <table border="0">
+        <tr>
+            <td align="left">{{ activity.description_left }}</td>
+            <td align="right">{{ activity.description_right }}</td>
+        </tr>
+    </table>
     {{ activity.content }}
 {% endfor %}
