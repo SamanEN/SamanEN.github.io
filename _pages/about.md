@@ -12,7 +12,7 @@ I'm currently a last year student of Computer Engineering at the University of T
 My Research Interests
 ====
 
-I'm mostly interested in the intersection of **Formal Methods** and **Computer Systems**. I don't find pure logic and verification very appealing; therefore, the emphasis is slightly more on the *Computer Systems* aspect. I have also studied **Program Synthesis** course from different sources, and I find its applications in **Computer Networks** very interesting.
+I'm mostly interested in the intersection of **Formal Methods** and **Computer Systems**. I don't find pure logic and verification much appealing; therefore, the emphasis is slightly more on the *Computer Systems* aspect. I have also studied **Program Synthesis** course from different sources, and I find its applications in **Computer Networks** very interesting.
 
 My Interests in the world!
 ====
