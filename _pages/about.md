@@ -12,9 +12,9 @@ I'm currently a last year student of Computer Engineering at the University of T
 My Research Interests
 ====
 
-I'm mostly interested in the intersection of **Formal Methods** and **Computer Systems**. I don't find pure logic and verification much appealing; therefore, the emphasis is slightly more on the *Computer Systems* aspect. I have also studied **Program Synthesis** course from different sources, and I find its applications in **Computer Networks** very interesting.
+I'm mostly interested and **Computer Systems** and **Computer Network**. I' also very fond of applications of **Program Synthesis** in Computer Networks, and I find researches on SDNs and Programmable Networks very interesting.
 
 My Interests in the world!
 ====
 
-Beside Computer Science, you need other things to be classified as a living person. For me, it's mostly friends and family. But beside that, I also love to take a walk in cities and meet people from different cultures and attitudes. I also like photography a lot. Unfortunately I'm an amateur in taking photos, and I don't have any special device for that. But I still try my best to capture photos with my phone. ~~You can find some of the selected one in [Non-Technical](/non-technical) section.~~
+Beside Computer Science, you need other things to be classified as a living person. For me, it's mostly friends and family (such a cliché!). But beside that, I also love to take a walk in cities and meet people from different cultures and attitudes. I also like photography a lot. Unfortunately I'm an amateur in taking photos, and I don't have any special device for that. But I still try my best to capture photos with my phone. ~~You can find some of the selected one in [Non-Technical](/non-technical) section.~~
