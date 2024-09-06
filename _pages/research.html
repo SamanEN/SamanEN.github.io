@@ -1,0 +1,38 @@
+---
+permalink: /research/
+title: "Research"
+author_profile: true
+---
+
+<style>   
+table {
+  border-collapse: collapse;
+  border: none;
+  font-size: medium;
+  margin-top: 0px;
+}
+
+td, th {
+  border: none;
+  padding: 0;
+}
+
+h2 {
+  margin-bottom: 0px;
+}
+
+figure img {
+  margin-bottom: 0.5px;
+}
+</style>
+
+{% for research in site.research %}
+    <h2>{{ research.title }}</h2>
+    <table border="0">
+        <tr>
+            <td align="left">{{ research.description_left }}</td>
+            <td align="right">{{ research.description_right }}</td>
+        </tr>
+    </table>
+    {{ research.content }}
+{% endfor %}
