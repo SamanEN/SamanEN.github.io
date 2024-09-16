@@ -9,7 +9,7 @@ I was one of the students accepted in the [SSRF Program](https://inf.ethz.ch/stu
 
 ### Purpose
 
-My main task during this internship was to find a way to integrate [CBMC](https://www.cprover.org/cbmc/) into [Viper](https://www.pm.inf.ethz.ch/research/viper.html), as a bounded model checker. In many cases, fully verifying a program might not be efficient or even possible, so the main idea here was to use model checking as a remedy to this problem. First step was to find a way to model Viper language in C, and then to see if CBMC is the right tool. We modeled some of the features including `inhale`, `exhale`, `predicate`.
+My main task during this internship was to find a way to integrate [CBMC](https://www.cprover.org/cbmc/) into [Viper](https://www.pm.inf.ethz.ch/research/viper.html), as a bounded model checker. In many cases, fully verifying a program might not be efficient or even possible, so the main idea here was to use model checking as a remedy to this problem. First step was to find a way to model Viper language in C, and then to see if CBMC is the right tool. We modeled some of the features including `inhale`, `exhale`, `predicate`, etc.
 
 ### Results
 
