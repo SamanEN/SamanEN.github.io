@@ -206,6 +206,9 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
+  non-technical:
+    output: true
+    permalink: /:collection/:path/
 
 # These settings control how pages and collections are included in the site
 defaults:

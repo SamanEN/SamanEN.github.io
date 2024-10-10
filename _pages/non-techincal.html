@@ -1,0 +1,75 @@
+---
+permalink: /non-technical/
+title: "Non-technical"
+author_profile: false
+---
+<div class="photo-album">
+    {% for item in site.non-technical %}
+    {% if item.photo_link and item.description %}
+    {% assign mod = forloop.index0 | modulo:2 %}
+    <div class="photo-row {% if mod == 0 %}desc-right{% else %}desc-left{% endif %}">
+        <a href="{{ item.photo_link }}" target="_blank" class="photo-link">
+            <img src="{{ item.photo_link }}" alt="{{ item.description }}" class="photo-img">
+        </a>
+        <div class="photo-description">
+            <p>{{ item.content }}</p>
+        </div>
+    </div>
+    <hr class="photo-separator">
+    {% endif %}
+    {% endfor %}
+</div>
+
+<style>
+    .photo-album {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .photo-row {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 20px;
+    }
+
+    .photo-row.desc-right {
+        flex-direction: row;
+    }
+
+    .photo-row.desc-left {
+        flex-direction: row-reverse;
+    }
+
+    .photo-link {
+        display: block;
+        max-width: 60%;
+    }
+
+    .photo-img {
+        width: 100%;
+        height: auto;
+    }
+
+    .photo-description {
+        max-width: 40%;
+        overflow: hidden;
+        white-space: normal;
+        word-wrap: break-word;
+    }
+
+    .photo-description p {
+        font-size: 1em;
+        color: #555;
+        margin: 0;
+        padding: 10px;
+    }
+
+    .photo-separator {
+        border: 0;
+        border-top: 1px solid black;
+        margin: 10px 0;
+    }
+</style>
