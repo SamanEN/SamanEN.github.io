@@ -12,7 +12,7 @@ I'm currently a last year student of Computer Engineering at the University of T
 My Research Interests
 ====
 
-I'm mostly interested and **Computer Systems** and **Computer Network**. I' also very fond of applications of **Program Synthesis** in Computer Networks, and I find researches on SDNs and Programmable Networks very interesting.
+I am mostly interested in **Computer Systems** and **Computer Networks**. I am also very interested in the applications of Program Synthesis in Computer Networks, and I find research on SDNs and Programmable Networks particularly fascinating. Ultimately, I am just an undergraduate still exploring my passions. These fields are ones I have some experience with and have enjoyed more than others.
 
 My Interests in the world!
 ====
