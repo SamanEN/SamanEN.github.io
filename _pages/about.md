@@ -17,4 +17,4 @@ I am mostly interested in **Computer Systems** and **Computer Networks**. I am a
 My Interests in the world!
 ====
 
-Beside Computer Science, you need other things to be classified as a living person. For me, it's mostly friends and family (such a cliché!). But beside that, I also love to take a walk in cities and meet people from different cultures and attitudes. I also like photography a lot. Unfortunately I'm an amateur in taking photos, and I don't have any special device for that. But I still try my best to capture photos with my phone. ~~You can find some of the selected one in [Non-Technical](/non-technical) section.~~
+Beside Computer Science, you need other things to be classified as a living person. For me, it's mostly friends and family (such a cliché!). But beside that, I also love to take a walk in cities and meet people from different cultures and attitudes. I also like photography a lot. Unfortunately I'm an amateur in taking photos, and I don't have any special device for that. But I still try my best to capture photos with my phone. You can find some of the selected ones in the [Non-Technical](/non-technical) section.
