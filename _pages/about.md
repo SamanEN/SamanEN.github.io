@@ -7,12 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a last year student of Computer Engineering at the University of Tehran. I love to code, and I find problems in computer networks amd systems very interesting. I've had a little research experience as an intern, in ETH Zurich, and my home university. I'm mostly passionate about doing research rather than industrial employment. Although I'm **mostly** interested in researches that have direct use in the industry, as I believe that this is the shortest and easiest way to see the impact of your work on society.
+I'm currently in my final year of Computer Engineering at the University of Tehran. I love coding and find problems in computer networks and systems particularly intriguing. I've gained some [research experience](/research/) through internships at ETH Zurich and my home university. My passion leans more towards research than industrial work, though I’m especially interested in research that has direct applications in industry. I believe this is the most straightforward and effective way to see the impact of one's work on society.
 
 My Research Interests
 ====
 
-I am mostly interested in **Computer Systems** and **Computer Networks**. I am also very interested in the applications of Program Synthesis in Computer Networks, and I find research on SDNs and Programmable Networks particularly fascinating. Ultimately, I am just an undergraduate still exploring my passions. These fields are ones I have some experience with and have enjoyed more than others.
+I am mostly interested in **Computer Systems** and **Computer Networks**. I am also very interested in the applications of Program Synthesis in Computer Networks, and I find research on SDNs and Programmable Networks particularly fascinating. While I’m still an undergraduate exploring my passions, these are fields where I have some experience and that I’ve enjoyed more than others.
 
 My Interests in the world!
 ====
